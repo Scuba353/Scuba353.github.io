@@ -16,7 +16,7 @@
 
 .projects{
   height: 255px;
-  width: 375px;
+  width: 325px;
 }
 
 #unicorn { z-index: 60; position: absolute; top: 40px; left: 44%; width: 110px; display: block; }
